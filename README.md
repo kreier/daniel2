@@ -18,7 +18,7 @@ And without color: https://sketchfab.com/3d-models/modelo-estatua-sonho-nabucodo
 
 ## Order at fiverr - Rizal M
 
-tbd.
+![png](fiverr.masyhurizal/2024-06-23_delivery2/B290CDD3-181D-4119-8B07-4B3570E8AEA2.png)
 
 ## Order at fiverrr - Isuru 2024-06-15
 
