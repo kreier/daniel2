@@ -7,3 +7,16 @@ Details:
 - Total price: $13.05
 - Order number: #FO718C7CBB181
 
+## Final result
+
+### JPG
+
+![JPG](./2024-06-23_delivery2/3642-rv-01.jpg)
+
+### PNG
+
+![PNG](./2024-06-23_delivery2/3642-rv-01.png)
+
+### SVG
+
+![SVG](./2024-06-23_delivery2/3642%20DV.svg)

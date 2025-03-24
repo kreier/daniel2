@@ -15,3 +15,12 @@ First steps in Blender 2024/03/26
 There is already a 3D asset available: https://sketchfab.com/3d-models/modelo-estatua-shades-6308cba32e874b9fb6adcd932235e46e
 
 And without color: https://sketchfab.com/3d-models/modelo-estatua-sonho-nabucodonosor-b1c735d5675043ecb4b649ece1740b5c
+
+## Order at fiverr - Rizal M
+
+tbd.
+
+## Order at fiverrr - Isuru 2024-06-15
+
+![jpg](./fiverr.isuru/2024-06-23_delivery2/3642-rv-01.jpg)
+
